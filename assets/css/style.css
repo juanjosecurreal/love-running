@@ -5,6 +5,9 @@ margin: 0;
 box-sizing: border-box;    
 }
 
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
 /* General Styling */
 body {
 min-height: 100vh;
@@ -12,6 +15,7 @@ display: flex;
 flex-direction: column;
 /* Generic Project Styles */
 color: #3a3a3a;
+font-family: 'Lato', sans-serif ;
 
 }    
 
